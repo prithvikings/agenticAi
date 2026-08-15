@@ -1,0 +1,27 @@
+{
+  "name": "agenticai",
+  "version": "1.0.0",
+  "description": "An agentic AI framework for building intelligent agents",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prithvikings/agenticAi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/prithvikings/agenticAi/issues"
+  },
+  "homepage": "https://github.com/prithvikings/agenticAi#readme",
+  "dependencies": {
+    "@langchain/mistralai": "^1.2.0",
+    "dotenv": "^17.4.2",
+    "readline": "^1.3.0"
+  }
+}

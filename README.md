@@ -119,7 +119,3 @@ This repository is primarily a hands-on learning project for understanding how m
 - Richer CLI formatting
 - Automated tests
 - Multi-agent workflows
-
-## License
-
-ISC
